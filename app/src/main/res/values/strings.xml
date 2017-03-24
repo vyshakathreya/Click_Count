@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Click_Count</string>
+    <string name="initialCount">0</string>
+</resources>
